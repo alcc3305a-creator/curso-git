@@ -1,0 +1,3 @@
+?? dia02/		El git vio algo que aun no conoce	
+A  dia02/colores.txt	status A el archivo esta listo para guardarse en el proximo commit
+M dia02/colores.txt	status m Archivo que Git ya conocia y fue modificado
